@@ -1,4 +1,4 @@
-# Intagram-Clone
+# Instagram-Clone
 Uma copia do Instagram. Um MVP usando uma stack
 
 Instagram Clone
